@@ -1,0 +1,1143 @@
+[
+  {
+    "name": "Atomic Habits",
+    "category": "Books",
+    "price": 499,
+    "stock": 20,
+    "description": "An easy & proven way to build good habits & break bad ones."
+  },
+  {
+    "name": "Samsung Galaxy S23",
+    "category": "Electronics",
+    "price": 69999,
+    "stock": 15,
+    "description": "Latest Samsung smartphone with high-end features."
+  },
+  {
+    "name": "Sony WH-1000XM4",
+    "category": "Electronics",
+    "price": 19999,
+    "stock": 30,
+    "description": "Industry leading noise cancellation headphones."
+  },
+  {
+    "name": "Python Crash Course",
+    "category": "Books",
+    "price": 799,
+    "stock": 10,
+    "description": "Beginner-friendly Python programming guide."
+  },
+  {
+    "name": "Levi's 501 Jeans",
+    "category": "Clothing",
+    "price": 2599,
+    "stock": 25,
+    "description": "Classic straight-fit denim for all-day comfort."
+  },
+  {
+    "name": "Apple MacBook Air M2",
+    "category": "Electronics",
+    "price": 104999,
+    "stock": 5,
+    "description": "Supercharged MacBook Air with Apple M2 chip."
+  },
+  {
+    "name": "Nike Air Max 270",
+    "category": "Footwear",
+    "price": 8999,
+    "stock": 18,
+    "description": "Stylish and comfortable running shoes."
+  },
+  {
+    "name": "Adidas Backpack",
+    "category": "Accessories",
+    "price": 1499,
+    "stock": 12,
+    "description": "Durable backpack for school or travel."
+  },
+  {
+    "name": "Kindle Paperwhite",
+    "category": "Electronics",
+    "price": 9999,
+    "stock": 22,
+    "description": "Waterproof e-reader with built-in light."
+  },
+  {
+    "name": "Logitech MX Master 3",
+    "category": "Electronics",
+    "price": 7499,
+    "stock": 10,
+    "description": "Advanced ergonomic mouse for productivity."
+  },
+  {
+    "name": "Apple iPhone 14 Pro",
+    "category": "Electronics",
+    "price": 119999,
+    "stock": 8,
+    "description": "Latest Apple iPhone with advanced camera system."
+  },
+  {
+    "name": "Dell XPS 13 Laptop",
+    "category": "Electronics",
+    "price": 89999,
+    "stock": 6,
+    "description": "Ultra-portable laptop with InfinityEdge display."
+  },
+  {
+    "name": "The Alchemist",
+    "category": "Books",
+    "price": 399,
+    "stock": 17,
+    "description": "A novel by Paulo Coelho about following your dreams."
+  },
+  {
+    "name": "Puma Running Shoes",
+    "category": "Footwear",
+    "price": 4999,
+    "stock": 20,
+    "description": "Lightweight shoes for daily running."
+  },
+  {
+    "name": "Fossil Gen 6 Smartwatch",
+    "category": "Electronics",
+    "price": 22999,
+    "stock": 14,
+    "description": "Stylish smartwatch with health tracking features."
+  },
+  {
+    "name": "Ray-Ban Aviator Sunglasses",
+    "category": "Accessories",
+    "price": 7999,
+    "stock": 11,
+    "description": "Classic aviator sunglasses with UV protection."
+  },
+  {
+    "name": "HP DeskJet 2331 Printer",
+    "category": "Electronics",
+    "price": 3499,
+    "stock": 9,
+    "description": "All-in-one color printer for home use."
+  },
+  {
+    "name": "Canon EOS 1500D DSLR",
+    "category": "Electronics",
+    "price": 34999,
+    "stock": 7,
+    "description": "Entry-level DSLR camera with Wi-Fi connectivity."
+  },
+  {
+    "name": "JBL Flip 5 Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 7999,
+    "stock": 13,
+    "description": "Portable waterproof speaker with powerful sound."
+  },
+  {
+    "name": "Mi Band 6",
+    "category": "Electronics",
+    "price": 2999,
+    "stock": 25,
+    "description": "Fitness band with AMOLED display and SpO2 tracking."
+  },
+  {
+    "name": "The Power of Habit",
+    "category": "Books",
+    "price": 499,
+    "stock": 19,
+    "description": "Book on the science of habit formation."
+  },
+  {
+    "name": "Wildcraft Hiking Backpack",
+    "category": "Accessories",
+    "price": 2499,
+    "stock": 10,
+    "description": "Spacious backpack for trekking and travel."
+  },
+  {
+    "name": "Samsung 55-inch 4K TV",
+    "category": "Electronics",
+    "price": 59999,
+    "stock": 4,
+    "description": "Ultra HD Smart TV with HDR support."
+  },
+  {
+    "name": "Sony PlayStation 5",
+    "category": "Electronics",
+    "price": 49999,
+    "stock": 3,
+    "description": "Next-gen gaming console with ultra-fast SSD."
+  },
+  {
+    "name": "Google Nest Mini",
+    "category": "Electronics",
+    "price": 3499,
+    "stock": 16,
+    "description": "Smart speaker with Google Assistant."
+  },
+  {
+    "name": "Fitbit Versa 3",
+    "category": "Electronics",
+    "price": 15999,
+    "stock": 12,
+    "description": "Health and fitness smartwatch with GPS."
+  },
+  {
+    "name": "Amazon Echo Dot (4th Gen)",
+    "category": "Electronics",
+    "price": 4499,
+    "stock": 18,
+    "description": "Smart speaker with Alexa voice assistant."
+  },
+  {
+    "name": "Crocs Classic Clog",
+    "category": "Footwear",
+    "price": 2999,
+    "stock": 22,
+    "description": "Comfortable and lightweight clogs for all-day wear."
+  },
+  {
+    "name": "Allen Solly Polo T-Shirt",
+    "category": "Clothing",
+    "price": 1299,
+    "stock": 30,
+    "description": "Casual polo t-shirt for men."
+  },
+  {
+    "name": "HRX Sports Shorts",
+    "category": "Clothing",
+    "price": 799,
+    "stock": 28,
+    "description": "Breathable shorts for workouts and running."
+  },
+  {
+    "name": "Philips Trimmer",
+    "category": "Electronics",
+    "price": 1499,
+    "stock": 15,
+    "description": "Rechargeable beard trimmer with multiple settings."
+  },
+  {
+    "name": "OnePlus Nord CE 3",
+    "category": "Electronics",
+    "price": 24999,
+    "stock": 10,
+    "description": "Affordable smartphone with 5G support."
+  },
+  {
+    "name": "Redmi Note 12",
+    "category": "Electronics",
+    "price": 17999,
+    "stock": 14,
+    "description": "Feature-packed smartphone with large display."
+  },
+  {
+    "name": "Asus ROG Gaming Laptop",
+    "category": "Electronics",
+    "price": 129999,
+    "stock": 5,
+    "description": "High-performance laptop for gaming enthusiasts."
+  },
+  {
+    "name": "Apple iPad Air",
+    "category": "Electronics",
+    "price": 54999,
+    "stock": 7,
+    "description": "Lightweight tablet with powerful performance."
+  },
+  {
+    "name": "Samsung Galaxy Tab S8",
+    "category": "Electronics",
+    "price": 62999,
+    "stock": 6,
+    "description": "Premium Android tablet with S Pen support."
+  },
+  {
+    "name": "Nike Dri-FIT Cap",
+    "category": "Accessories",
+    "price": 999,
+    "stock": 20,
+    "description": "Moisture-wicking cap for outdoor activities."
+  },
+  {
+    "name": "Tommy Hilfiger Wallet",
+    "category": "Accessories",
+    "price": 1999,
+    "stock": 13,
+    "description": "Leather wallet with multiple compartments."
+  },
+  {
+    "name": "Casio G-Shock Watch",
+    "category": "Accessories",
+    "price": 5999,
+    "stock": 9,
+    "description": "Shock-resistant digital watch for men."
+  },
+  {
+    "name": "Bose QuietComfort Earbuds",
+    "category": "Electronics",
+    "price": 24999,
+    "stock": 8,
+    "description": "Noise-cancelling true wireless earbuds."
+  },
+  {
+    "name": "H&M Cotton Shirt",
+    "category": "Clothing",
+    "price": 1499,
+    "stock": 18,
+    "description": "Slim-fit cotton shirt for formal occasions."
+  },
+  {
+    "name": "Zara Women's Dress",
+    "category": "Clothing",
+    "price": 2999,
+    "stock": 12,
+    "description": "Elegant dress for parties and events."
+  },
+  {
+    "name": "Woodland Leather Boots",
+    "category": "Footwear",
+    "price": 5999,
+    "stock": 10,
+    "description": "Durable boots for outdoor adventures."
+  },
+  {
+    "name": "Campus Running Shoes",
+    "category": "Footwear",
+    "price": 2499,
+    "stock": 16,
+    "description": "Affordable running shoes for daily use."
+  },
+  {
+    "name": "Reebok Gym Bag",
+    "category": "Accessories",
+    "price": 1299,
+    "stock": 14,
+    "description": "Spacious gym bag with multiple pockets."
+  },
+  {
+    "name": "American Tourister Suitcase",
+    "category": "Accessories",
+    "price": 4999,
+    "stock": 7,
+    "description": "Lightweight suitcase for travel."
+  },
+  {
+    "name": "Wild Stone Perfume",
+    "category": "Accessories",
+    "price": 899,
+    "stock": 21,
+    "description": "Long-lasting fragrance for men."
+  },
+  {
+    "name": "The Subtle Art of Not Giving a F*ck",
+    "category": "Books",
+    "price": 599,
+    "stock": 15,
+    "description": "A counterintuitive approach to living a good life."
+  },
+  {
+    "name": "Sparx Flip Flops",
+    "category": "Footwear",
+    "price": 499,
+    "stock": 25,
+    "description": "Comfortable flip flops for casual wear."
+  },
+  {
+    "name": "Peter England Formal Trousers",
+    "category": "Clothing",
+    "price": 1999,
+    "stock": 13,
+    "description": "Classic formal trousers for office wear."
+  },
+  {
+    "name": "Allen Solly Women's Top",
+    "category": "Clothing",
+    "price": 999,
+    "stock": 17,
+    "description": "Trendy top for women."
+  },
+  {
+    "name": "Samsung Galaxy Buds 2",
+    "category": "Electronics",
+    "price": 11999,
+    "stock": 11,
+    "description": "Wireless earbuds with active noise cancellation."
+  },
+  {
+    "name": "Apple Watch SE",
+    "category": "Electronics",
+    "price": 29999,
+    "stock": 9,
+    "description": "Affordable smartwatch with essential features."
+  },
+  {
+    "name": "Mi Power Bank 20000mAh",
+    "category": "Electronics",
+    "price": 2499,
+    "stock": 20,
+    "description": "High-capacity portable charger."
+  },
+  {
+    "name": "Philips Air Fryer",
+    "category": "Electronics",
+    "price": 8999,
+    "stock": 8,
+    "description": "Healthy oil-free cooking appliance."
+  },
+  {
+    "name": "Prestige Pressure Cooker",
+    "category": "Electronics",
+    "price": 2499,
+    "stock": 15,
+    "description": "Durable pressure cooker for fast cooking."
+  },
+  {
+    "name": "Bajaj Mixer Grinder",
+    "category": "Electronics",
+    "price": 3499,
+    "stock": 12,
+    "description": "Powerful mixer grinder for kitchen use."
+  },
+  {
+    "name": "Havells Electric Kettle",
+    "category": "Electronics",
+    "price": 1999,
+    "stock": 18,
+    "description": "Stainless steel kettle for quick boiling."
+  },
+  {
+    "name": "Usha Table Fan",
+    "category": "Electronics",
+    "price": 2499,
+    "stock": 10,
+    "description": "Portable table fan with adjustable speed."
+  },
+  {
+    "name": "Syska LED Bulb",
+    "category": "Electronics",
+    "price": 299,
+    "stock": 30,
+    "description": "Energy-efficient LED bulb for home lighting."
+  },
+  {
+    "name": "Orient Ceiling Fan",
+    "category": "Electronics",
+    "price": 3499,
+    "stock": 7,
+    "description": "High-speed ceiling fan with remote control."
+  },
+  {
+    "name": "Crompton Water Heater",
+    "category": "Electronics",
+    "price": 6999,
+    "stock": 6,
+    "description": "Instant water heater for bathrooms."
+  },
+  {
+    "name": "Milton Thermosteel Flask",
+    "category": "Accessories",
+    "price": 1299,
+    "stock": 15,
+    "description": "Insulated flask for hot and cold beverages."
+  },
+  {
+    "name": "Cello Plastic Water Bottle",
+    "category": "Accessories",
+    "price": 399,
+    "stock": 22,
+    "description": "Durable water bottle for daily use."
+  },
+  {
+    "name": "Safari School Bag",
+    "category": "Accessories",
+    "price": 999,
+    "stock": 18,
+    "description": "Spacious school bag with multiple compartments."
+  },
+  {
+    "name": "Skybags Laptop Backpack",
+    "category": "Accessories",
+    "price": 1999,
+    "stock": 12,
+    "description": "Laptop backpack with padded compartments."
+  },
+  {
+    "name": "VIP Trolley Bag",
+    "category": "Accessories",
+    "price": 3999,
+    "stock": 9,
+    "description": "Trolley bag for convenient travel."
+  },
+  {
+    "name": "Wildcraft Rain Jacket",
+    "category": "Clothing",
+    "price": 2499,
+    "stock": 10,
+    "description": "Waterproof jacket for rainy weather."
+  },
+  {
+    "name": "Puma Sports Socks",
+    "category": "Clothing",
+    "price": 499,
+    "stock": 25,
+    "description": "Comfortable socks for sports and daily wear."
+  },
+  {
+    "name": "Adidas Track Pants",
+    "category": "Clothing",
+    "price": 1999,
+    "stock": 14,
+    "description": "Track pants for workouts and casual wear."
+  },
+  {
+    "name": "Levi's Denim Jacket",
+    "category": "Clothing",
+    "price": 3999,
+    "stock": 8,
+    "description": "Classic denim jacket for all seasons."
+  },
+  {
+    "name": "Zara Men's Blazer",
+    "category": "Clothing",
+    "price": 5999,
+    "stock": 6,
+    "description": "Formal blazer for men."
+  },
+  {
+    "name": "H&M Women's Skirt",
+    "category": "Clothing",
+    "price": 1499,
+    "stock": 13,
+    "description": "Trendy skirt for women."
+  },
+  {
+    "name": "Nike Sports Bra",
+    "category": "Clothing",
+    "price": 1999,
+    "stock": 11,
+    "description": "Supportive sports bra for workouts."
+  },
+  {
+    "name": "Reebok Yoga Mat",
+    "category": "Accessories",
+    "price": 1499,
+    "stock": 17,
+    "description": "Non-slip yoga mat for fitness routines."
+  },
+  {
+    "name": "AmazonBasics Laptop Stand",
+    "category": "Accessories",
+    "price": 999,
+    "stock": 20,
+    "description": "Ergonomic stand for laptops."
+  },
+  {
+    "name": "Boat Rockerz 255 Pro+",
+    "category": "Electronics",
+    "price": 1999,
+    "stock": 18,
+    "description": "Wireless neckband earphones with long battery life."
+  },
+  {
+    "name": "Realme Smart TV Stick",
+    "category": "Electronics",
+    "price": 2999,
+    "stock": 15,
+    "description": "Android TV stick for streaming."
+  },
+  {
+    "name": "Fire-Boltt Ninja Smartwatch",
+    "category": "Electronics",
+    "price": 3499,
+    "stock": 13,
+    "description": "Affordable smartwatch with fitness tracking."
+  },
+  {
+    "name": "Noise ColorFit Pulse",
+    "category": "Electronics",
+    "price": 2499,
+    "stock": 16,
+    "description": "Smartwatch with SpO2 monitor."
+  },
+  {
+    "name": "Boult Audio AirBass",
+    "category": "Electronics",
+    "price": 1499,
+    "stock": 19,
+    "description": "True wireless earbuds with deep bass."
+  },
+  {
+    "name": "boAt Stone 1200 Speaker",
+    "category": "Electronics",
+    "price": 3999,
+    "stock": 12,
+    "description": "Portable Bluetooth speaker with RGB lights."
+  },
+  {
+    "name": "Portronics Power Brick",
+    "category": "Electronics",
+    "price": 1799,
+    "stock": 14,
+    "description": "Portable power bank for charging devices."
+  },
+  {
+    "name": "Lenovo Tab M10",
+    "category": "Electronics",
+    "price": 15999,
+    "stock": 8,
+    "description": "Android tablet for entertainment and study."
+  },
+  {
+    "name": "HP Wireless Mouse",
+    "category": "Electronics",
+    "price": 799,
+    "stock": 20,
+    "description": "Compact wireless mouse for laptops."
+  },
+  {
+    "name": "SanDisk 64GB Pen Drive",
+    "category": "Electronics",
+    "price": 699,
+    "stock": 25,
+    "description": "High-speed USB 3.0 pen drive."
+  },
+  {
+    "name": "WD 1TB External HDD",
+    "category": "Electronics",
+    "price": 3999,
+    "stock": 10,
+    "description": "Portable external hard drive for backups."
+  },
+  {
+    "name": "Seagate 2TB External HDD",
+    "category": "Electronics",
+    "price": 5999,
+    "stock": 7,
+    "description": "High-capacity external hard drive."
+  },
+  {
+    "name": "TP-Link Wi-Fi Router",
+    "category": "Electronics",
+    "price": 2499,
+    "stock": 13,
+    "description": "Dual-band wireless router for home."
+  },
+  {
+    "name": "D-Link Range Extender",
+    "category": "Electronics",
+    "price": 1999,
+    "stock": 11,
+    "description": "Wi-Fi range extender for better coverage."
+  },
+  {
+    "name": "Logitech K480 Keyboard",
+    "category": "Electronics",
+    "price": 2999,
+    "stock": 9,
+    "description": "Multi-device Bluetooth keyboard."
+  },
+  {
+    "name": "Dell 24-inch Monitor",
+    "category": "Electronics",
+    "price": 12999,
+    "stock": 6,
+    "description": "Full HD monitor with thin bezels."
+  },
+  {
+    "name": "BenQ GW2480 Monitor",
+    "category": "Electronics",
+    "price": 10999,
+    "stock": 8,
+    "description": "Eye-care monitor for long hours."
+  },
+  {
+    "name": "LG 32-inch Smart TV",
+    "category": "Electronics",
+    "price": 24999,
+    "stock": 5,
+    "description": "HD Ready Smart TV with webOS."
+  },
+  {
+    "name": "Sony Bravia 43-inch TV",
+    "category": "Electronics",
+    "price": 39999,
+    "stock": 4,
+    "description": "4K Ultra HD Smart LED TV."
+  },
+  {
+    "name": "Panasonic Home Theater",
+    "category": "Electronics",
+    "price": 14999,
+    "stock": 7,
+    "description": "5.1 channel home theater system."
+  },
+  {
+    "name": "Philips Soundbar",
+    "category": "Electronics",
+    "price": 7999,
+    "stock": 10,
+    "description": "Wireless soundbar with deep bass."
+  },
+  {
+    "name": "JBL Cinema SB110",
+    "category": "Electronics",
+    "price": 9999,
+    "stock": 8,
+    "description": "Soundbar with built-in subwoofer."
+  },
+  {
+    "name": "Boat Airdopes 441",
+    "category": "Electronics",
+    "price": 2499,
+    "stock": 15,
+    "description": "True wireless earbuds with IWP technology."
+  },
+  {
+    "name": "Noise Shots NEO 2",
+    "category": "Electronics",
+    "price": 1999,
+    "stock": 13,
+    "description": "Wireless earbuds with low latency."
+  },
+  {
+    "name": "Boult Audio BassBuds",
+    "category": "Electronics",
+    "price": 1299,
+    "stock": 17,
+    "description": "Wired earphones with extra bass."
+  },
+  {
+    "name": "Sony MDR-ZX110A",
+    "category": "Electronics",
+    "price": 999,
+    "stock": 20,
+    "description": "On-ear headphones with tangle-free cable."
+  },
+  {
+    "name": "JBL C100SI Earphones",
+    "category": "Electronics",
+    "price": 799,
+    "stock": 22,
+    "description": "In-ear headphones with mic."
+  },
+  {
+    "name": "Sennheiser CX 180",
+    "category": "Electronics",
+    "price": 1199,
+    "stock": 18,
+    "description": "Stereo in-ear headphones."
+  },
+  {
+    "name": "Boat Bassheads 100",
+    "category": "Electronics",
+    "price": 499,
+    "stock": 25,
+    "description": "Wired earphones with HD sound."
+  },
+  {
+    "name": "Philips SHE1505",
+    "category": "Electronics",
+    "price": 599,
+    "stock": 19,
+    "description": "In-ear headphones with mic."
+  },
+  {
+    "name": "Realme Buds 2",
+    "category": "Electronics",
+    "price": 699,
+    "stock": 21,
+    "description": "Wired earphones with powerful bass."
+  },
+  {
+    "name": "Mi Dual Driver Earphones",
+    "category": "Electronics",
+    "price": 799,
+    "stock": 16,
+    "description": "Dual driver wired earphones."
+  },
+  {
+    "name": "Infinity Glide 120",
+    "category": "Electronics",
+    "price": 999,
+    "stock": 14,
+    "description": "Wireless neckband with deep bass."
+  },
+  {
+    "name": "Boat Rockerz 235V2",
+    "category": "Electronics",
+    "price": 1299,
+    "stock": 12,
+    "description": "Wireless earphones with fast charging."
+  },
+  {
+    "name": "Samsung EVO 128GB microSD",
+    "category": "Electronics",
+    "price": 1499,
+    "stock": 18,
+    "description": "High-speed microSD card for storage expansion."
+  },
+  {
+    "name": "SanDisk Ultra 32GB microSD",
+    "category": "Electronics",
+    "price": 699,
+    "stock": 20,
+    "description": "Reliable microSD card for smartphones."
+  },
+  {
+    "name": "Kingston 16GB DDR4 RAM",
+    "category": "Electronics",
+    "price": 4999,
+    "stock": 10,
+    "description": "High-performance RAM for desktops."
+  },
+  {
+    "name": "Corsair 8GB DDR4 RAM",
+    "category": "Electronics",
+    "price": 2999,
+    "stock": 13,
+    "description": "Reliable RAM for laptops and PCs."
+  },
+  {
+    "name": "WD Blue 500GB SSD",
+    "category": "Electronics",
+    "price": 3999,
+    "stock": 8,
+    "description": "Solid state drive for fast storage."
+  },
+  {
+    "name": "Samsung 970 EVO 1TB SSD",
+    "category": "Electronics",
+    "price": 9999,
+    "stock": 6,
+    "description": "High-speed NVMe SSD for laptops."
+  },
+  {
+    "name": "Crucial BX500 240GB SSD",
+    "category": "Electronics",
+    "price": 2499,
+    "stock": 11,
+    "description": "Affordable SSD for system upgrades."
+  },
+  {
+    "name": "Transcend 1TB Portable SSD",
+    "category": "Electronics",
+    "price": 10999,
+    "stock": 7,
+    "description": "Portable SSD for fast data transfer."
+  },
+  {
+    "name": "Kingston 64GB DataTraveler",
+    "category": "Electronics",
+    "price": 899,
+    "stock": 15,
+    "description": "USB flash drive for data storage."
+  },
+  {
+    "name": "HP 32GB OTG Pen Drive",
+    "category": "Electronics",
+    "price": 799,
+    "stock": 18,
+    "description": "OTG pen drive for smartphones and PCs."
+  },
+  {
+    "name": "SanDisk Extreme 128GB SD Card",
+    "category": "Electronics",
+    "price": 2999,
+    "stock": 9,
+    "description": "High-speed SD card for cameras."
+  },
+  {
+    "name": "Lexar 256GB microSD Card",
+    "category": "Electronics",
+    "price": 4999,
+    "stock": 6,
+    "description": "Large capacity microSD card for devices."
+  },
+  {
+    "name": "PNY 16GB USB Drive",
+    "category": "Electronics",
+    "price": 499,
+    "stock": 20,
+    "description": "Compact USB drive for file transfer."
+  },
+  {
+    "name": "Toshiba 1TB External HDD",
+    "category": "Electronics",
+    "price": 3799,
+    "stock": 8,
+    "description": "Reliable external hard drive for backups."
+  },
+  {
+    "name": "ADATA 512GB SSD",
+    "category": "Electronics",
+    "price": 5999,
+    "stock": 10,
+    "description": "Fast SSD for laptops and desktops."
+  },
+  {
+    "name": "Samsung T5 1TB Portable SSD",
+    "category": "Electronics",
+    "price": 11999,
+    "stock": 5,
+    "description": "Portable SSD with fast transfer speeds."
+  },
+  {
+    "name": "Crucial P3 500GB NVMe SSD",
+    "category": "Electronics",
+    "price": 4499,
+    "stock": 7,
+    "description": "NVMe SSD for high-speed storage."
+  },
+  {
+    "name": "Kingston A400 240GB SSD",
+    "category": "Electronics",
+    "price": 2299,
+    "stock": 12,
+    "description": "Affordable SSD for quick upgrades."
+  },
+  {
+    "name": "WD Elements 2TB HDD",
+    "category": "Electronics",
+    "price": 5999,
+    "stock": 6,
+    "description": "High-capacity external hard drive."
+  },
+  {
+    "name": "Seagate Backup Plus 4TB",
+    "category": "Electronics",
+    "price": 9999,
+    "stock": 4,
+    "description": "Large external hard drive for backups."
+  },
+  {
+    "name": "Transcend 2TB StoreJet HDD",
+    "category": "Electronics",
+    "price": 7999,
+    "stock": 5,
+    "description": "Portable hard drive with shock protection."
+  },
+  {
+    "name": "SanDisk 256GB Ultra microSD",
+    "category": "Electronics",
+    "price": 5999,
+    "stock": 7,
+    "description": "High-capacity microSD card for devices."
+  },
+  {
+    "name": "Samsung 860 EVO 500GB SSD",
+    "category": "Electronics",
+    "price": 4999,
+    "stock": 8,
+    "description": "Reliable SSD for laptops and PCs."
+  },
+  {
+    "name": "WD My Passport 1TB HDD",
+    "category": "Electronics",
+    "price": 4499,
+    "stock": 9,
+    "description": "Portable hard drive with password protection."
+  },
+  {
+    "name": "Kingston 32GB DataTraveler",
+    "category": "Electronics",
+    "price": 599,
+    "stock": 15,
+    "description": "USB flash drive for everyday use."
+  },
+  {
+    "name": "HP 64GB Pen Drive",
+    "category": "Electronics",
+    "price": 899,
+    "stock": 13,
+    "description": "High-capacity pen drive for file storage."
+  },
+  {
+    "name": "SanDisk 128GB Ultra Flair",
+    "category": "Electronics",
+    "price": 1499,
+    "stock": 11,
+    "description": "Fast USB 3.0 flash drive."
+  },
+  {
+    "name": "Seagate 500GB Portable HDD",
+    "category": "Electronics",
+    "price": 2999,
+    "stock": 10,
+    "description": "Compact external hard drive for backups."
+  },
+  {
+    "name": "ADATA 1TB External HDD",
+    "category": "Electronics",
+    "price": 3999,
+    "stock": 8,
+    "description": "Portable hard drive for data storage."
+  },
+  {
+    "name": "Crucial MX500 1TB SSD",
+    "category": "Electronics",
+    "price": 8999,
+    "stock": 6,
+    "description": "High-performance SSD for fast computing."
+  },
+  {
+    "name": "WD Green 240GB SSD",
+    "category": "Electronics",
+    "price": 1999,
+    "stock": 12,
+    "description": "Affordable SSD for system upgrades."
+  },
+  {
+    "name": "Samsung 870 QVO 2TB SSD",
+    "category": "Electronics",
+    "price": 17999,
+    "stock": 4,
+    "description": "Large capacity SSD for desktops."
+  },
+  {
+    "name": "Kingston 128GB microSD",
+    "category": "Electronics",
+    "price": 1999,
+    "stock": 10,
+    "description": "Reliable microSD card for smartphones."
+  },
+  {
+    "name": "SanDisk 32GB Ultra microSD",
+    "category": "Electronics",
+    "price": 599,
+    "stock": 18,
+    "description": "Affordable microSD card for devices."
+  },
+  {
+    "name": "HP 1TB Portable HDD",
+    "category": "Electronics",
+    "price": 3999,
+    "stock": 7,
+    "description": "Portable hard drive for backups and storage."
+  },
+  {
+    "name": "WD Blue 250GB SSD",
+    "category": "Electronics",
+    "price": 2999,
+    "stock": 9,
+    "description": "SSD for fast and reliable storage."
+  },
+  {
+    "name": "Seagate 1TB Barracuda HDD",
+    "category": "Electronics",
+    "price": 3499,
+    "stock": 8,
+    "description": "Internal hard drive for desktops."
+  },
+  {
+    "name": "ADATA 256GB SSD",
+    "category": "Electronics",
+    "price": 2999,
+    "stock": 11,
+    "description": "SSD for laptops and desktops."
+  },
+  {
+    "name": "Crucial 500GB Portable SSD",
+    "category": "Electronics",
+    "price": 5999,
+    "stock": 6,
+    "description": "Portable SSD for fast data transfer."
+  },
+  {
+    "name": "Kingston 256GB DataTraveler",
+    "category": "Electronics",
+    "price": 2999,
+    "stock": 10,
+    "description": "High-capacity USB flash drive."
+  },
+  {
+    "name": "HP 500GB Portable HDD",
+    "category": "Electronics",
+    "price": 2999,
+    "stock": 8,
+    "description": "Compact hard drive for backups."
+  },
+  {
+    "name": "SanDisk 512GB Extreme Pro",
+    "category": "Electronics",
+    "price": 7999,
+    "stock": 7,
+    "description": "High-speed SD card for professionals."
+  },
+  {
+    "name": "WD 2TB My Passport HDD",
+    "category": "Electronics",
+    "price": 6999,
+    "stock": 5,
+    "description": "Portable hard drive with large capacity."
+  },
+  {
+    "name": "Seagate 4TB Expansion HDD",
+    "category": "Electronics",
+    "price": 11999,
+    "stock": 3,
+    "description": "External hard drive for massive storage."
+  },
+  {
+    "name": "ADATA 2TB External HDD",
+    "category": "Electronics",
+    "price": 7999,
+    "stock": 4,
+    "description": "Large capacity portable hard drive."
+  },
+  {
+    "name": "Crucial 2TB MX500 SSD",
+    "category": "Electronics",
+    "price": 17999,
+    "stock": 2,
+    "description": "High-capacity SSD for desktops and laptops."
+  },
+  {
+    "name": "Kingston 512GB SSD",
+    "category": "Electronics",
+    "price": 5999,
+    "stock": 6,
+    "description": "Reliable SSD for fast performance."
+  },
+  {
+    "name": "HP 2TB Portable HDD",
+    "category": "Electronics",
+    "price": 6999,
+    "stock": 3,
+    "description": "Portable hard drive for large backups."
+  },
+  {
+    "name": "SanDisk 1TB Extreme SSD",
+    "category": "Electronics",
+    "price": 12999,
+    "stock": 4,
+    "description": "Portable SSD with high-speed transfers."
+  },
+  {
+    "name": "WD 4TB Elements HDD",
+    "category": "Electronics",
+    "price": 13999,
+    "stock": 2,
+    "description": "Massive external hard drive for storage."
+  },
+  {
+    "name": "Seagate 8TB Desktop HDD",
+    "category": "Electronics",
+    "price": 19999,
+    "stock": 1,
+    "description": "High-capacity desktop hard drive."
+  },
+  {
+    "name": "ADATA 4TB External HDD",
+    "category": "Electronics",
+    "price": 13999,
+    "stock": 2,
+    "description": "Large portable hard drive for backups."
+  },
+  {
+    "name": "Crucial 4TB X8 Portable SSD",
+    "category": "Electronics",
+    "price": 29999,
+    "stock": 1,
+    "description": "Ultra-fast portable SSD for professionals."
+  }
+]

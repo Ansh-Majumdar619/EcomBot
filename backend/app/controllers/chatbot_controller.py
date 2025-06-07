@@ -1,32 +1,3 @@
-# from flask import jsonify
-# from datetime import datetime
-
-# def handle_chat(data):
-#     message = data.get("message", "").lower()
-
-#     # Basic simulation logic
-#     if "book" in message:
-#         reply = "You can find a variety of books in our catalog. Type 'search books' to get started!"
-#     elif "electronics" in message:
-#         reply = "Electronics section has phones, laptops, and more. Type 'search electronics'."
-#     else:
-#         reply = "I'm not sure what you mean. Try typing a category like 'books' or 'electronics'."
-
-#     return jsonify({
-#         "user_message": message,
-#         "bot_reply": reply,
-#         "timestamp": datetime.utcnow().isoformat()
-#     })
-
-
-
-
-
-
-
-
-
-
 from flask import jsonify
 from datetime import datetime
 from app import mongo

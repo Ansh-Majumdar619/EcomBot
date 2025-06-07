@@ -19,7 +19,7 @@ def create_app():
     # ✅ Set up CORS correctly
     CORS(
         app,
-        resources={r"/api/*": {"origins": "http://localhost:5173"}},
+        resources={r"/api/*": {"origins": "https://ecombot-frontend.onrender.com"}},
         supports_credentials=True,
         allow_headers=["Content-Type", "Authorization"],
         methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"]
